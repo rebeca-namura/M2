@@ -23,16 +23,16 @@ Para que o sistema seja considerado completo, ele deverá incluir:
 
  ## Entregas Parciais
 
-[Semana 01 (UX Parte 1): Personas e US](/UX_Ponderada1.md)  
+[Semana 01 (UX Parte 1): Personas e US](UX_Ponderada1.md)  
 
-[Semana 02 (COMP Parte 1): Base do Projeto](/Comp_Ponderada1.md)  
+[Semana 02 (COMP Parte 1): Base do Projeto](Comp_Ponderada1.md)  
 
-[Semana 03 (UX Parte 2): Wireframes](/UX_Ponderada2.md)  
+[Semana 03 (UX Parte 2): Wireframes](UX_Ponderada2.md)  
 
-[Semana 04 (COMP Parte 2): Conectando Banco de Dados e Servidor](/Comp_Ponderada2.md)  
+[Semana 04 (COMP Parte 2): Conectando Banco de Dados e Servidor](Comp_Ponderada2.md)  
 
-[Semana 05 (UX Parte 3): Protótipo de Alta](/UX_Ponderada3.md)  
+[Semana 05 (UX Parte 3): Protótipo de Alta](UX_Ponderada3.md)  
 
-[Semana 06 (COMP Parte 3): Sistema Completo com Funcionalidades e Interface](/Comp_Ponderada3.md)  
+[Semana 06 (COMP Parte 3): Sistema Completo com Funcionalidades e Interface](Comp_Ponderada3.md)  
 
-[Semana 07 (COMP Parte 4): Demonstração e Documentação](/Comp_Ponderada4.md)  
+[Semana 07 (COMP Parte 4): Demonstração e Documentação](Comp_Ponderada4.md)  
