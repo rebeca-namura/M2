@@ -17,21 +17,29 @@
 <br>
 
 ## <a name="c1"></a>1. Introdução (Semana 01)
+    Esse sistema será uma plataforma para a criação de eventos de forma a simplificar a organização e gestão deles, oferecendo soluções completas para o gerenciamento de inscrições e divulgação da programação do evento. Com um sistema intuitivo, os organizadores podem gerenciar facilmente desde a criação do evento até o acompanhamento de participantes.
 
-*Preencha com até 300 palavras – sem necessidade de fonte.*
-*Descreva brevemente o sistema que você irá desenvolver.*
-
----
 
 ## <a name="c2"></a>2. Visão Geral da Aplicação Web
 
 ### 2.1. Personas (Semana 01)
 
-*Posicione aqui sua(s) Persona(s) em forma de texto markdown com imagens, ou como imagem de template preenchido. Atualize esta seção ao longo do módulo se necessário.*
+<div align="center">
+  <sub>FIGURA 1 - Amélia</sub><br>
+  <img src= "assets/persona_amelia.png" width="100%" 
+  alt="Persona"><br>
+  <sup>Fonte: Material produzido pelos autores, 2025</sup>
+  </div>
 
 ### 2.2. User Stories (Semana 01)
 
 *Posicione aqui a lista de User Stories levantadas para o projeto. Siga o template de User Stories e utilize a referência USXX para numeração (US01, US02, US03, ...). Indique todas as User Stories mapeadas, mesmo aquelas que não forem implementadas ao longo do projeto. Não se esqueça de explicar o INVEST de 1 User Storie prioritária.*
+
+\# | Story | I | N | V | E | S | T |
+---| --- | --- | --- | --- | --- | --- | --- 
+US01 | Como organizador de eventos, quero ter um controle centralizado das informações dos participantes, para que eu possa acompanhar confirmações, gerenciar mudanças de forma simples. | O controle centralizado das informações dos participantes pode ser desenvolvido e implementado sem depender de outras funcionalidades. Pode ser priorizada e entregue de forma autônoma. | A user story é negociável, pois a maneira de implementar o controle centralizado das informações pode ser discutida. Os detalhes de como o gerenciamento das confirmações e mudanças será feito podem ser ajustados com base nas necessidades do time ou do cliente. | A funcionalidade é valiosa para o organizador de eventos, pois facilita o processo de monitoramento e gestão das confirmações de participação e alterações nas informações dos participantes, ajudando a otimizar o fluxo de trabalho e garantir que o organizador tenha visibilidade total e controle sobre as informações de forma eficiente.| O escopo pode ser estimado considerando a quantidade de participantes, tipos de informações que precisam ser controladas e os requisitos técnicos para a implementação do controle centralizado. | Essa user story é pequena o suficiente para ser concluída dentro de um ciclo de desenvolvimento de uma sprint. | A user story é testável, pois podemos definir critérios de aceitação claros para garantir que a funcionalidade atenda aos requisitos. A validação pode ser feita por testes manuais ou automatizados para garantir que as mudanças e confirmações sejam gerenciadas de forma eficaz. 
+US02 | Como participante, posso efetuar a inscrição no evento para consumir conteúdo.  | 
+US03 | Como UX designer, eu quero fazer uma interface intuitiva para facilitar a navegabilidade do usuário. | 
 
 ---
 
