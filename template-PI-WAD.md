@@ -17,7 +17,8 @@
 <br>
 
 ## <a name="c1"></a>1. Introdução (Semana 01)
-    Esse sistema será uma plataforma para a criação de eventos de forma a simplificar a organização e gestão deles, oferecendo soluções completas para o gerenciamento de inscrições e divulgação da programação do evento. Com um sistema intuitivo, os organizadores podem gerenciar facilmente desde a criação do evento até o acompanhamento de participantes.
+
+Esse sistema será uma plataforma para a criação de eventos de forma a simplificar a organização e gestão deles, oferecendo soluções completas para o gerenciamento de inscrições e divulgação da programação do evento. Com um sistema intuitivo, os organizadores podem gerenciar facilmente desde a criação do evento até o acompanhamento de participantes.
 
 
 ## <a name="c2"></a>2. Visão Geral da Aplicação Web
